@@ -1,0 +1,4 @@
+<view class="padding text-center">
+  <image class="padding radius shadow bg-white" src="{{qrcodeUrl}}" style="width:258px;"></image>
+  <view class="padding">{{memo}}</view>
+</view>
